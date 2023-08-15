@@ -4,6 +4,8 @@ version: 0.24.1-dist1
 summary: Typesense packaged for Immich Distribution
 description: |
   Typesense packaged for Immich Distribution, this is not intended to be consumed directly.
+architectures:
+  - amd64
 
 grade: stable
 confinement: strict
